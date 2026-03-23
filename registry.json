@@ -30,8 +30,7 @@
       "author": "giblfiz",
       "repo": "giblfiz/fauna-skills",
       "kind": "skill",
-      "categories": ["learning"],
-      "defaultPlatforms": ["all"]
+      "categories": ["learning"]
     },
     {
       "id": "learning-opportunities",
@@ -40,8 +39,7 @@
       "author": "DrCatHicks",
       "repo": "DrCatHicks/learning-opportunities",
       "kind": "skill",
-      "categories": ["learning"],
-      "defaultPlatforms": ["all"]
+      "categories": ["learning"]
     },
     {
       "id": "shaping-skills",
@@ -60,8 +58,7 @@
       "author": "jakubkrehel",
       "repo": "jakubkrehel/make-interfaces-feel-better",
       "kind": "skill",
-      "categories": ["design", "frontend", "ui-ux"],
-      "defaultPlatforms": ["all"]
+      "categories": ["design", "frontend", "ui-ux"]
     },
     {
       "id": "expo-skills",
