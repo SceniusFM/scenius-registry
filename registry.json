@@ -9,7 +9,8 @@
       "repo": "garrytan/gstack",
       "kind": "skill",
       "categories": ["workflow"],
-      "featured": true
+      "featured": true,
+      "defaultPlatforms": ["all"]
     },
     {
       "id": "superpowers",
@@ -19,7 +20,8 @@
       "repo": "obra/superpowers",
       "kind": "skill",
       "categories": ["workflow", "testing", "debugging"],
-      "featured": true
+      "featured": true,
+      "defaultPlatforms": ["all"]
     },
     {
       "id": "fauna-skills",
@@ -65,7 +67,7 @@
       "repo": "expo/skills",
       "kind": "skill",
       "categories": ["mobile", "react-native", "expo"],
-      "defaultEnabled": false
+      "defaultPlatforms": ["expo"]
     },
     {
       "id": "swiftui-agent-skill",
@@ -75,7 +77,7 @@
       "repo": "twostraws/swiftui-agent-skill",
       "kind": "skill",
       "categories": ["mobile", "swiftui", "ios"],
-      "defaultEnabled": false
+      "defaultPlatforms": ["ios"]
     },
     {
       "id": "axiom",
@@ -85,7 +87,7 @@
       "repo": "CharlesWiltgen/Axiom",
       "kind": "skill",
       "categories": ["workflow", "reasoning"],
-      "defaultEnabled": false
+      "defaultPlatforms": ["ios"]
     }
   ]
 }
