@@ -56,6 +56,36 @@
       "repo": "jakubkrehel/make-interfaces-feel-better",
       "kind": "skill",
       "categories": ["design", "frontend", "ui-ux"]
+    },
+    {
+      "id": "expo-skills",
+      "name": "Expo Skills",
+      "description": "Skills for building React Native apps with Expo",
+      "author": "expo",
+      "repo": "expo/skills",
+      "kind": "skill",
+      "categories": ["mobile", "react-native", "expo"],
+      "defaultEnabled": false
+    },
+    {
+      "id": "swiftui-agent-skill",
+      "name": "SwiftUI Agent Skill",
+      "description": "Skills for building SwiftUI apps with best practices and modern patterns",
+      "author": "twostraws",
+      "repo": "twostraws/swiftui-agent-skill",
+      "kind": "skill",
+      "categories": ["mobile", "swiftui", "ios"],
+      "defaultEnabled": false
+    },
+    {
+      "id": "axiom",
+      "name": "Axiom",
+      "description": "Meta-skill that improves Claude Code's core capabilities with better planning, reasoning, and code generation",
+      "author": "CharlesWiltgen",
+      "repo": "CharlesWiltgen/Axiom",
+      "kind": "skill",
+      "categories": ["workflow", "reasoning"],
+      "defaultEnabled": false
     }
   ]
 }
