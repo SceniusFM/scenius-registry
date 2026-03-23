@@ -1,0 +1,61 @@
+{
+  "version": 1,
+  "extensions": [
+    {
+      "id": "gstack",
+      "name": "Gstack",
+      "description": "Software factory: Think, Plan, Build, Review, Test, Ship, Reflect",
+      "author": "garrytan",
+      "repo": "garrytan/gstack",
+      "kind": "skill",
+      "categories": ["workflow"],
+      "featured": true
+    },
+    {
+      "id": "superpowers",
+      "name": "Superpowers",
+      "description": "Complete software development workflow for coding agents: TDD, debugging, collaboration, and testing",
+      "author": "obra",
+      "repo": "obra/superpowers",
+      "kind": "skill",
+      "categories": ["workflow", "testing", "debugging"],
+      "featured": true
+    },
+    {
+      "id": "fauna-skills",
+      "name": "Fauna Skills",
+      "description": "Portable agent skills: council-of-elders reasoning, work management, lab notes, escalation routing",
+      "author": "giblfiz",
+      "repo": "giblfiz/fauna-skills",
+      "kind": "skill",
+      "categories": ["reasoning", "project-management"]
+    },
+    {
+      "id": "learning-opportunities",
+      "name": "Learning Opportunities",
+      "description": "Deliberate learning exercises integrated into agentic coding workflows using cognitive science techniques",
+      "author": "DrCatHicks",
+      "repo": "DrCatHicks/learning-opportunities",
+      "kind": "skill",
+      "categories": ["learning", "education"]
+    },
+    {
+      "id": "shaping-skills",
+      "name": "Shaping Skills",
+      "description": "Shape Up methodology for LLM-assisted development: shaping, breadboarding, and collaborative documentation",
+      "author": "rjs",
+      "repo": "rjs/shaping-skills",
+      "kind": "skill",
+      "categories": ["planning", "methodology"]
+    },
+    {
+      "id": "make-interfaces-feel-better",
+      "name": "Make Interfaces Feel Better",
+      "description": "Teaches AI coding assistants UI/UX best practices for animations, spacing, typography, and interaction design",
+      "author": "jakubkrehel",
+      "repo": "jakubkrehel/make-interfaces-feel-better",
+      "kind": "skill",
+      "categories": ["design", "frontend", "ui-ux"]
+    }
+  ]
+}
