@@ -30,7 +30,8 @@
       "author": "giblfiz",
       "repo": "giblfiz/fauna-skills",
       "kind": "skill",
-      "categories": ["reasoning", "project-management"]
+      "categories": ["learning"],
+      "defaultPlatforms": ["all"]
     },
     {
       "id": "learning-opportunities",
@@ -39,7 +40,8 @@
       "author": "DrCatHicks",
       "repo": "DrCatHicks/learning-opportunities",
       "kind": "skill",
-      "categories": ["learning", "education"]
+      "categories": ["learning"],
+      "defaultPlatforms": ["all"]
     },
     {
       "id": "shaping-skills",
@@ -48,7 +50,8 @@
       "author": "rjs",
       "repo": "rjs/shaping-skills",
       "kind": "skill",
-      "categories": ["planning", "methodology"]
+      "categories": ["planning", "methodology"],
+      "defaultPlatforms": ["all"]
     },
     {
       "id": "make-interfaces-feel-better",
@@ -57,7 +60,8 @@
       "author": "jakubkrehel",
       "repo": "jakubkrehel/make-interfaces-feel-better",
       "kind": "skill",
-      "categories": ["design", "frontend", "ui-ux"]
+      "categories": ["design", "frontend", "ui-ux"],
+      "defaultPlatforms": ["all"]
     },
     {
       "id": "expo-skills",
